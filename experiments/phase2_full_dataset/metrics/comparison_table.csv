@@ -1,0 +1,3 @@
+Config,Description,Learning Rate,Batch Size,Best Epoch,Early Stopped,Best Val Loss,Final Val Loss,Overfitting,Best Val Macro F1,Test Macro F1,Test Accuracy,Train/Val Gap,Time (min)
+LR5e-5_BS16,Best Val F1 (0.8218) from Phase 1,5e-05,16,10,True,0.5221,0.5737,No,0.8289,0.8274,82.77%,-0.0677,3.7
+LR5e-5_BS32,Best Test F1 (0.8115) from Phase 1,5e-05,32,18,False,0.4896,0.5215,Yes,0.8341,0.8357,83.48%,-0.1296,4.2

@@ -1,0 +1,37 @@
+Generated Random Seeds for Robustness Experiments
+==================================================
+Total seeds: 30
+Range: 1-500
+Generator seed: 42
+==================================================
+
+ 1. Seed 13
+ 2. Seed 14
+ 3. Seed 16
+ 4. Seed 17
+ 5. Seed 45
+ 6. Seed 48
+ 7. Seed 53
+ 8. Seed 58
+ 9. Seed 72
+10. Seed 102
+11. Seed 112
+12. Seed 115
+13. Seed 120
+14. Seed 126
+15. Seed 141
+16. Seed 215
+17. Seed 217
+18. Seed 259
+19. Seed 280
+20. Seed 288
+21. Seed 303
+22. Seed 309
+23. Seed 328
+24. Seed 333
+25. Seed 347
+26. Seed 360
+27. Seed 367
+28. Seed 378
+29. Seed 380
+30. Seed 457

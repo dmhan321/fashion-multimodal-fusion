@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project-local docs (root only)
+/docs/
+
+# Folders named archive / archived anywhere in the project (any depth)
+**/archive/
+**/Archive/
+**/archived/
+**/Archived/
+
+# Heavy / local data
+data/raw/
+data/raw dataset/
+data/processed/
+data/captions/
+dataset/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Experiment artifacts (plots, checkpoints, curves); metrics/ stays trackable
+experiments/**/artifacts/
+
+# Legacy typo folder (fully ignored)
+achived/
+
+# Generated images at repo root
+img/
+
+# Upstream LLaVA clone (separate git repo)
+LLaVA/

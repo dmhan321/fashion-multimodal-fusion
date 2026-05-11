@@ -1,0 +1,9 @@
+Config,Patience,Dropout,Weight Decay,Best Epoch,Early Stopped,Best Val Loss,Final Val Loss,Overfitting,Best Macro F1,Test Macro F1,Test Accuracy,Train/Val Gap,Time (min)
+ES5_Drop0.4_WD1e-5,5,0.4,1e-05,9,True,0.5596,0.6373,No,0.8157,0.8071,80.77%,-0.1708,1.8
+ES5_Drop0.5_WD1e-4,5,0.5,0.0001,9,True,0.5563,0.6554,Yes,0.8186,0.8140,81.27%,-0.0951,1.8
+ES7_Drop0.4_WD1e-5,7,0.4,1e-05,12,True,0.5488,0.6780,Yes,0.8177,0.8105,81.07%,-0.2244,2.4
+ES7_Drop0.5_WD1e-5,7,0.5,1e-05,17,False,0.5491,0.6538,Yes,0.8173,0.8032,80.26%,-0.2754,2.5
+ES7_Drop0.4_WD1e-4,7,0.4,0.0001,11,True,0.5487,0.7472,Yes,0.8143,0.8055,80.56%,-0.2177,2.3
+ES5_Drop0.5_WD1e-5,5,0.5,1e-05,8,True,0.5441,0.6232,Yes,0.8134,0.8011,80.26%,-0.0314,1.7
+ES7_Drop0.5_WD1e-4,7,0.5,0.0001,17,False,0.5506,0.6365,Yes,0.8128,0.8199,81.97%,-0.2100,2.5
+ES5_Drop0.4_WD1e-4,5,0.4,0.0001,9,True,0.5385,0.6677,Yes,0.8119,0.8049,80.56%,-0.1690,1.8

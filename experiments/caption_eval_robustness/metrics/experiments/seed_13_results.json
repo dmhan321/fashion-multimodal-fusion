@@ -1,0 +1,26 @@
+{
+  "seed_value": 13,
+  "seed_idx": 1,
+  "train_size": 9261,
+  "val_size": 1984,
+  "test_size": 1985,
+  "diversity": {
+    "train": 0.12409871816635132,
+    "val": 0.12560570240020752,
+    "test": 0.12176603078842163
+  },
+  "clip_metrics": {
+    "train_mean_similarity": 29.981416513167446,
+    "val_mean_similarity": 29.938878124312083,
+    "test_mean_similarity": 29.954454747759495,
+    "train_mean_iqa": 9.367284109571585,
+    "val_mean_iqa": 9.343619578019267,
+    "test_mean_iqa": 9.31702746149875
+  },
+  "blip_metrics": {
+    "train_mean": -0.002501293920821278,
+    "val_mean": -0.0025085948010323267,
+    "test_mean": -0.0024446651166349182
+  },
+  "time_minutes": 27.563825162251792
+}
