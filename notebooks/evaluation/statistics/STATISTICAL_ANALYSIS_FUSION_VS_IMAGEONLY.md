@@ -1,8 +1,17 @@
 # Statistical analysis: cross-attention fusion vs image-only CLIP
 
-This document summarizes outputs from the three notebooks in this folder, all using **matched seeds** (*n* = 30), **test macro-F1** from `experiments/*/metrics/experiments/seed_*_results.json`, and difference **d = fusion − image-only** (phase3_robustness vs imageonly_robustness).
+This document summarizes outputs from the three notebooks in this folder for **one** 30-seed pairwise comparison: **test macro-F1** from `experiments/*/metrics/experiments/seed_*_results.json`, with **d = attention-based fusion − image-only** (phase3_robustness vs imageonly_robustness).
 
 **Hypothesis (one-sided):** fusion **>** image-only on the mean or distribution of paired differences. **α = 0.05.**
+
+## Protocol clarification (seed counts across model families)
+
+| Model / fusion | Matched seeds used in robustness sweeps |
+|----------------|----------------------------------------|
+| Text-only, image-only (frozen CLIP), **attention-based fusion** (phase3) | **30** (same seed list) |
+| **Gated fusion** and **concatenation / MLP fusion** | **5** only |
+
+So the **Wilcoxon / paired *t* / bootstrap notebooks here** apply only to the **30-seed** image-only vs attention-fusion comparison. **They do not** automatically apply to gated or concat fusion, because those variants were not evaluated on all 30 seeds. For the paper: either **report fusion-strategy comparisons on the 5 shared seeds** (with smaller-*n* statistics and wider uncertainty) or **extend gated and concat to all 30 seeds** if you want the same paired-test machinery everywhere.
 
 ---
 
