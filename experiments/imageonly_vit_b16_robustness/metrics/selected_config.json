@@ -1,0 +1,11 @@
+{
+  "name": "selected_config_30_seed",
+  "model_name": "vit_base_patch16_224",
+  "batch_size": 64,
+  "max_epochs": 20,
+  "patience": 5,
+  "dropout": 0.5,
+  "weight_decay": 0.0001,
+  "backbone_lr": 2e-05,
+  "head_lr": 0.0001
+}
