@@ -1,6 +1,6 @@
 # Fine-tuned CLIP weights (Google Drive) → fusion ablation
 
-**Google Drive (model weights — start here):** _[paste Shared drive link here]_
+**Google Drive (model weights — start here):** _[[paste Shared drive link here](https://drive.google.com/drive/folders/19I0tzKzFbXCqNUvk7G3jJUvs1QTIt1Uq?usp=drive_link)]_
 
 When you replace weights after a new training run, bump a **version suffix** in the Drive folder name and update the link above.
 
