@@ -21,7 +21,8 @@ venv/
 data/raw/
 data/raw dataset/
 data/processed/
-data/captions/
+data/captions/*
+!data/captions/qwen25vl_caption_full.csv
 dataset/
 *.pth
 *.pt
