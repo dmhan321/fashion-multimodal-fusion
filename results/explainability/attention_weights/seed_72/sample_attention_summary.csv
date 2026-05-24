@@ -1,0 +1,9 @@
+seed,sample_idx,true,pred,confidence,max_attn_token
+72,0,dressy,dressy,0.9997404217720032,dress
+72,1,conservative,conservative,0.9686665534973145,jacket
+72,2,dressy,dressy,0.9997994303703308,dress
+72,3,lolita,lolita,0.9997186064720154,dress
+72,4,dressy,dressy,0.9983310103416443,dress
+72,5,retro,retro,0.9855185747146606,.
+72,6,natural,natural,0.9720453023910522,.
+72,7,lolita,lolita,0.9996905326843262,dress

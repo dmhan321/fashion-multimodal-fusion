@@ -1,0 +1,9 @@
+seed,sample_idx,true,pred,confidence,max_attn_token
+14,0,fairy,fairy,0.9989614486694336,.
+14,1,gal,ethnic,0.733950138092041,floral
+14,2,mode,rock,0.6386299133300781,boots
+14,3,street,street,0.999441921710968,jean
+14,4,mode,mode,0.996071457862854,sunglasses
+14,5,fairy,fairy,0.9992026686668396,hat
+14,6,gal,gal,0.9124588966369629,coffee
+14,7,street,street,0.9998767375946045,plaid

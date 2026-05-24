@@ -1,0 +1,13 @@
+seed,model,case_type,true,pred,file
+14,clip,success,fairy,fairy,clip\seed_14\success_00.png
+14,clip,success,street,street,clip\seed_14\success_01.png
+14,clip,success,mode,mode,clip\seed_14\success_02.png
+14,clip,success,fairy,fairy,clip\seed_14\success_03.png
+14,clip,success,gal,gal,clip\seed_14\success_04.png
+14,clip,success,street,street,clip\seed_14\success_05.png
+14,clip,failure,gal,dressy,clip\seed_14\failure_00.png
+14,clip,failure,mode,rock,clip\seed_14\failure_01.png
+14,clip,failure,retro,kireime-casual,clip\seed_14\failure_02.png
+14,clip,failure,girlish,feminine,clip\seed_14\failure_03.png
+14,clip,failure,gal,street,clip\seed_14\failure_04.png
+14,clip,failure,kireime-casual,mode,clip\seed_14\failure_05.png

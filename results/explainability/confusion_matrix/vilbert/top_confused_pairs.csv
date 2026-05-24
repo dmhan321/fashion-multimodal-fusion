@@ -1,0 +1,16 @@
+model,true_class,pred_class,count,rate_given_true
+vilbert,kireime-casual,conservative,337,0.21329113924050633
+vilbert,rock,street,243,0.2004950495049505
+vilbert,girlish,feminine,235,0.14156626506024098
+vilbert,girlish,natural,232,0.13975903614457832
+vilbert,conservative,kireime-casual,213,0.15457184325108853
+vilbert,mode,rock,208,0.13081761006289308
+vilbert,lolita,fairy,189,0.11834690043832186
+vilbert,ethnic,natural,186,0.14418604651162792
+vilbert,fairy,lolita,174,0.12142358688066993
+vilbert,rock,mode,174,0.14356435643564355
+vilbert,retro,feminine,171,0.1346456692913386
+vilbert,street,rock,158,0.10286458333333333
+vilbert,gal,feminine,154,0.1076923076923077
+vilbert,kireime-casual,natural,148,0.09367088607594937
+vilbert,mode,kireime-casual,147,0.09245283018867924

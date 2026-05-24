@@ -1,0 +1,6 @@
+model,top_pair,top_count
+cross_attention,kireime-casual->conservative,218
+clip,conservative->kireime-casual,186
+convnext,kireime-casual->conservative,260
+swin,conservative->kireime-casual,208
+vit,kireime-casual->conservative,271

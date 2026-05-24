@@ -1,0 +1,16 @@
+model,true_class,pred_class,count,rate_given_true
+blip,kireime-casual,conservative,191,0.1208860759493671
+blip,girlish,feminine,125,0.07530120481927711
+blip,street,rock,123,0.080078125
+blip,conservative,kireime-casual,121,0.08780841799709724
+blip,mode,rock,101,0.06352201257861635
+blip,girlish,kireime-casual,100,0.060240963855421686
+blip,rock,mode,94,0.07755775577557755
+blip,girlish,natural,90,0.05421686746987952
+blip,girlish,retro,71,0.0427710843373494
+blip,natural,kireime-casual,69,0.053488372093023255
+blip,rock,street,69,0.05693069306930693
+blip,feminine,girlish,63,0.05206611570247934
+blip,fairy,lolita,63,0.04396371249127704
+blip,kireime-casual,girlish,60,0.0379746835443038
+blip,gal,feminine,58,0.04055944055944056

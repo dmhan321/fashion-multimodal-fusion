@@ -1,0 +1,9 @@
+seed,sample_idx,true,pred,confidence,max_attn_token
+48,0,ethnic,ethnic,0.9989891648292542,the
+48,1,rock,rock,0.9946457147598267,black
+48,2,retro,dressy,0.9767093658447266,green
+48,3,conservative,conservative,0.5331640243530273,pants
+48,4,girlish,girlish,0.9238466620445251,jeans
+48,5,dressy,dressy,0.9999969005584717,.
+48,6,lolita,lolita,0.9998270869255066,floral
+48,7,street,street,0.7761480212211609,hat

@@ -1,0 +1,9 @@
+seed,sample_idx,true,pred,confidence,max_attn_token
+13,0,retro,feminine,0.9607922434806824,dress
+13,1,retro,girlish,0.8850603103637695,.
+13,2,mode,mode,0.6707494854927063,hips
+13,3,mode,mode,0.9946080446243286,fur
+13,4,retro,fairy,0.9907750487327576,.
+13,5,ethnic,ethnic,0.9968878626823425,the
+13,6,girlish,gal,0.957565188407898,socks
+13,7,natural,natural,0.9973433613777161,the

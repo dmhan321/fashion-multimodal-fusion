@@ -1,0 +1,16 @@
+model,true_class,pred_class,count,rate_given_true
+gated_fusion,street,gal,523,0.3404947916666667
+gated_fusion,girlish,feminine,414,0.2493975903614458
+gated_fusion,kireime-casual,conservative,289,0.1829113924050633
+gated_fusion,gal,feminine,264,0.18461538461538463
+gated_fusion,conservative,feminine,225,0.1632801161103048
+gated_fusion,street,ethnic,218,0.14192708333333334
+gated_fusion,kireime-casual,feminine,197,0.12468354430379747
+gated_fusion,street,girlish,191,0.12434895833333333
+gated_fusion,retro,feminine,176,0.13858267716535433
+gated_fusion,fairy,feminine,174,0.12142358688066993
+gated_fusion,rock,mode,172,0.1419141914191419
+gated_fusion,lolita,feminine,166,0.10394489668127739
+gated_fusion,mode,feminine,161,0.10125786163522013
+gated_fusion,natural,feminine,150,0.11627906976744186
+gated_fusion,dressy,feminine,146,0.10863095238095238

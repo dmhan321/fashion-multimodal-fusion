@@ -1,0 +1,16 @@
+true_class,pred_class,count,rate_given_true
+kireime-casual,conservative,218,0.1379746835443038
+conservative,kireime-casual,155,0.11248185776487664
+girlish,feminine,151,0.09096385542168675
+mode,rock,145,0.09119496855345911
+street,rock,105,0.068359375
+girlish,kireime-casual,103,0.06204819277108434
+feminine,girlish,102,0.08429752066115702
+rock,mode,92,0.07590759075907591
+girlish,natural,88,0.05301204819277108
+feminine,conservative,76,0.0628099173553719
+natural,kireime-casual,75,0.05813953488372093
+girlish,gal,66,0.03975903614457831
+kireime-casual,natural,63,0.039873417721518985
+mode,kireime-casual,62,0.0389937106918239
+kireime-casual,girlish,62,0.039240506329113925

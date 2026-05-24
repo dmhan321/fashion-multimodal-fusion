@@ -1,0 +1,13 @@
+seed,model,case_type,true,pred,file
+58,cross_attention,success,street,street,cross_attention\seed_58\success_00.png
+58,cross_attention,success,kireime-casual,kireime-casual,cross_attention\seed_58\success_01.png
+58,cross_attention,success,retro,retro,cross_attention\seed_58\success_02.png
+58,cross_attention,success,ethnic,ethnic,cross_attention\seed_58\success_03.png
+58,cross_attention,success,dressy,dressy,cross_attention\seed_58\success_04.png
+58,cross_attention,success,feminine,feminine,cross_attention\seed_58\success_05.png
+58,cross_attention,failure,girlish,natural,cross_attention\seed_58\failure_00.png
+58,cross_attention,failure,retro,girlish,cross_attention\seed_58\failure_01.png
+58,cross_attention,failure,retro,dressy,cross_attention\seed_58\failure_02.png
+58,cross_attention,failure,conservative,retro,cross_attention\seed_58\failure_03.png
+58,cross_attention,failure,mode,ethnic,cross_attention\seed_58\failure_04.png
+58,cross_attention,failure,fairy,girlish,cross_attention\seed_58\failure_05.png

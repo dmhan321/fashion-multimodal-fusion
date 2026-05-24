@@ -1,0 +1,9 @@
+seed,sample_idx,true,pred,confidence,max_attn_token
+16,0,mode,mode,0.8662671446800232,jean
+16,1,lolita,lolita,0.9998602867126465,","
+16,2,fairy,fairy,0.9982089996337891,","
+16,3,kireime-casual,retro,0.954313337802887,hat
+16,4,feminine,feminine,0.9952458739280701,","
+16,5,girlish,girlish,0.9247068762779236,","
+16,6,kireime-casual,kireime-casual,0.9057177901268005,","
+16,7,street,street,0.9993473887443542,jersey

@@ -40,3 +40,5 @@ img/
 
 # Upstream LLaVA clone (separate git repo)
 LLaVA/
+
+.gitattributes

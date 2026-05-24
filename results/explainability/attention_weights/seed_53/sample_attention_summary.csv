@@ -1,0 +1,9 @@
+seed,sample_idx,true,pred,confidence,max_attn_token
+53,0,fairy,fairy,0.9893385171890259,adds
+53,1,gal,gal,0.996986448764801,shirt
+53,2,street,street,0.9997312426567078,hat
+53,3,rock,rock,0.9706282615661621,boots
+53,4,mode,mode,0.9641712307929993,black
+53,5,natural,natural,0.9967464208602905,hat
+53,6,gal,feminine,0.8040598034858704,dress
+53,7,conservative,conservative,0.38901740312576294,jacket

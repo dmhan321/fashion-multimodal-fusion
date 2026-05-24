@@ -1,0 +1,9 @@
+seed,sample_idx,true,pred,confidence,max_attn_token
+58,0,street,street,0.9998443126678467,hat
+58,1,kireime-casual,kireime-casual,0.8441576957702637,hood
+58,2,retro,retro,0.9445347785949707,tight
+58,3,ethnic,gal,0.6819509863853455,beach
+58,4,girlish,natural,0.6545023918151855,the
+58,5,dressy,dressy,0.9997830986976624,gown
+58,6,feminine,feminine,0.9764161705970764,floral
+58,7,fairy,fairy,0.9998118281364441,pink

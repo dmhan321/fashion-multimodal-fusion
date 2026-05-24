@@ -1,0 +1,13 @@
+seed,model,case_type,true,pred,file
+45,clip,success,retro,retro,clip\seed_45\success_00.png
+45,clip,success,gal,gal,clip\seed_45\success_01.png
+45,clip,success,street,street,clip\seed_45\success_02.png
+45,clip,success,retro,retro,clip\seed_45\success_03.png
+45,clip,success,fairy,fairy,clip\seed_45\success_04.png
+45,clip,success,conservative,conservative,clip\seed_45\success_05.png
+45,clip,failure,retro,feminine,clip\seed_45\failure_00.png
+45,clip,failure,retro,girlish,clip\seed_45\failure_01.png
+45,clip,failure,conservative,mode,clip\seed_45\failure_02.png
+45,clip,failure,natural,girlish,clip\seed_45\failure_03.png
+45,clip,failure,rock,mode,clip\seed_45\failure_04.png
+45,clip,failure,dressy,lolita,clip\seed_45\failure_05.png

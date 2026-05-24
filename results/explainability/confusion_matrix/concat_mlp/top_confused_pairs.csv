@@ -1,0 +1,16 @@
+model,true_class,pred_class,count,rate_given_true
+concat_mlp,gal,dressy,449,0.313986013986014
+concat_mlp,feminine,dressy,431,0.35619834710743803
+concat_mlp,lolita,retro,421,0.2636192861615529
+concat_mlp,conservative,mode,420,0.3047895500725689
+concat_mlp,natural,mode,363,0.2813953488372093
+concat_mlp,fairy,feminine,362,0.2526168876482903
+concat_mlp,kireime-casual,mode,350,0.22151898734177214
+concat_mlp,fairy,gal,335,0.23377529658060014
+concat_mlp,street,girlish,317,0.20638020833333334
+concat_mlp,lolita,gal,315,0.19724483406386975
+concat_mlp,conservative,dressy,297,0.2155297532656023
+concat_mlp,rock,ethnic,297,0.24504950495049505
+concat_mlp,dressy,gal,282,0.20982142857142858
+concat_mlp,kireime-casual,gal,276,0.17468354430379746
+concat_mlp,girlish,dressy,275,0.16566265060240964

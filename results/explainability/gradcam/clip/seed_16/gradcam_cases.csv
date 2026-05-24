@@ -1,0 +1,13 @@
+seed,model,case_type,true,pred,file
+16,clip,success,mode,mode,clip\seed_16\success_00.png
+16,clip,success,lolita,lolita,clip\seed_16\success_01.png
+16,clip,success,fairy,fairy,clip\seed_16\success_02.png
+16,clip,success,feminine,feminine,clip\seed_16\success_03.png
+16,clip,success,girlish,girlish,clip\seed_16\success_04.png
+16,clip,success,kireime-casual,kireime-casual,clip\seed_16\success_05.png
+16,clip,failure,kireime-casual,retro,clip\seed_16\failure_00.png
+16,clip,failure,mode,kireime-casual,clip\seed_16\failure_01.png
+16,clip,failure,retro,conservative,clip\seed_16\failure_02.png
+16,clip,failure,natural,kireime-casual,clip\seed_16\failure_03.png
+16,clip,failure,feminine,natural,clip\seed_16\failure_04.png
+16,clip,failure,mode,rock,clip\seed_16\failure_05.png

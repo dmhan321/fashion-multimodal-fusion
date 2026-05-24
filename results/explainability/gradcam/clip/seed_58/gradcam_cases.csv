@@ -1,0 +1,13 @@
+seed,model,case_type,true,pred,file
+58,clip,success,street,street,clip\seed_58\success_00.png
+58,clip,success,kireime-casual,kireime-casual,clip\seed_58\success_01.png
+58,clip,success,retro,retro,clip\seed_58\success_02.png
+58,clip,success,ethnic,ethnic,clip\seed_58\success_03.png
+58,clip,success,girlish,girlish,clip\seed_58\success_04.png
+58,clip,success,dressy,dressy,clip\seed_58\success_05.png
+58,clip,failure,retro,girlish,clip\seed_58\failure_00.png
+58,clip,failure,kireime-casual,ethnic,clip\seed_58\failure_01.png
+58,clip,failure,conservative,retro,clip\seed_58\failure_02.png
+58,clip,failure,mode,ethnic,clip\seed_58\failure_03.png
+58,clip,failure,fairy,girlish,clip\seed_58\failure_04.png
+58,clip,failure,mode,natural,clip\seed_58\failure_05.png

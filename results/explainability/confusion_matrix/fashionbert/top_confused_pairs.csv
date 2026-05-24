@@ -1,0 +1,16 @@
+model,true_class,pred_class,count,rate_given_true
+fashionbert,kireime-casual,conservative,344,0.21772151898734177
+fashionbert,gal,conservative,272,0.1902097902097902
+fashionbert,girlish,street,264,0.15903614457831325
+fashionbert,mode,rock,264,0.1660377358490566
+fashionbert,retro,lolita,260,0.2047244094488189
+fashionbert,rock,street,255,0.2103960396039604
+fashionbert,conservative,kireime-casual,250,0.18142235123367198
+fashionbert,lolita,fairy,246,0.15403882279273637
+fashionbert,girlish,kireime-casual,244,0.14698795180722893
+fashionbert,feminine,conservative,242,0.2
+fashionbert,street,rock,237,0.154296875
+fashionbert,girlish,natural,227,0.13674698795180723
+fashionbert,rock,mode,217,0.17904290429042904
+fashionbert,girlish,conservative,210,0.12650602409638553
+fashionbert,natural,conservative,210,0.16279069767441862

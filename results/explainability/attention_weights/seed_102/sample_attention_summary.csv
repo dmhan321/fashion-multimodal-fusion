@@ -1,0 +1,9 @@
+seed,sample_idx,true,pred,confidence,max_attn_token
+102,0,retro,natural,0.423641562461853,is
+102,1,natural,natural,0.9320782423019409,to
+102,2,rock,rock,0.9814594984054565,yoga
+102,3,dressy,dressy,0.9997778534889221,dress
+102,4,kireime-casual,kireime-casual,0.9163265824317932,jeans
+102,5,kireime-casual,conservative,0.8381127119064331,jacket
+102,6,fairy,fairy,0.9998873472213745,pink
+102,7,mode,mode,0.9706295728683472,fur

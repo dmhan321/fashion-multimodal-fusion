@@ -1,0 +1,9 @@
+seed,sample_idx,true,pred,confidence,max_attn_token
+17,0,girlish,kireime-casual,0.67202228307724,cell
+17,1,retro,retro,0.612308919429779,dress
+17,2,ethnic,ethnic,0.921839714050293,the
+17,3,kireime-casual,kireime-casual,0.9204272031784058,jacket
+17,4,kireime-casual,kireime-casual,0.8579193353652954,cell
+17,5,fairy,fairy,0.8905487060546875,yellow
+17,6,natural,natural,0.774855375289917,black
+17,7,feminine,feminine,0.971931517124176,white

@@ -1,0 +1,9 @@
+seed,sample_idx,true,pred,confidence,max_attn_token
+45,0,retro,retro,0.9412015080451965,bicycle
+45,1,gal,gal,0.9985095858573914,hips
+45,2,retro,feminine,0.40302956104278564,.
+45,3,street,street,0.9992221593856812,hood
+45,4,retro,retro,0.9965774416923523,hat
+45,5,fairy,fairy,0.9920355677604675,floral
+45,6,conservative,conservative,0.8932024240493774,shoe
+45,7,lolita,lolita,0.9982439279556274,","
