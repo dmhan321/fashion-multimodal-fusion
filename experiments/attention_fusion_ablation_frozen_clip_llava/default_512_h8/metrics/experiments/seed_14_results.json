@@ -1,0 +1,40 @@
+{
+  "experiment_id": "default_512_h8_seed_14",
+  "ablation_name": "default_512_h8",
+  "ablation_label": "Default",
+  "seed_value": 14,
+  "timestamp": "2026-05-30T15:01:26.624049",
+  "configuration": {
+    "fusion_hidden_dim": 512,
+    "fusion_num_heads": 8,
+    "learning_rate": 5e-05,
+    "batch_size": 32,
+    "dropout": 0.5,
+    "weight_decay": 0.0001,
+    "max_epochs": 20,
+    "early_stopping_patience": 5,
+    "model_init_seed": 42,
+    "data_split_seed": 14,
+    "caption_csv": "/home/ding-zhang/Dongmei/DATA255/Project/data/processed/LLaVA_caption_dataset_final_full.csv",
+    "image_preprocess": "openai_clip_preprocess_ViT-B_32"
+  },
+  "validation_metrics": {
+    "best_val_macro_f1": 0.8518554511117816,
+    "best_epoch": 14,
+    "early_stopped": true
+  },
+  "test_metrics": {
+    "test_macro_f1": 0.8292221056175146,
+    "test_accuracy": 0.8284561049445005,
+    "test_loss": 0.4969417741221766,
+    "test_macro_precision": 0.828125550401781,
+    "test_macro_recall": 0.8318875531231743
+  },
+  "training_info": {
+    "total_time_seconds": 215.24866890907288
+  },
+  "backfill_test_metrics": {
+    "timestamp": "2026-05-30T16:56:22.851208",
+    "note": "eval-only backfill cell"
+  }
+}

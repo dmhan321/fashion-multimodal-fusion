@@ -1,0 +1,40 @@
+{
+  "experiment_id": "proj768_h8_seed_45",
+  "ablation_name": "proj768_h8",
+  "ablation_label": "Larger projection",
+  "seed_value": 45,
+  "timestamp": "2026-05-30T15:29:18.683015",
+  "configuration": {
+    "fusion_hidden_dim": 768,
+    "fusion_num_heads": 8,
+    "learning_rate": 5e-05,
+    "batch_size": 32,
+    "dropout": 0.5,
+    "weight_decay": 0.0001,
+    "max_epochs": 20,
+    "early_stopping_patience": 5,
+    "model_init_seed": 42,
+    "data_split_seed": 45,
+    "caption_csv": "/home/ding-zhang/Dongmei/DATA255/Project/data/processed/LLaVA_caption_dataset_final_full.csv",
+    "image_preprocess": "openai_clip_preprocess_ViT-B_32"
+  },
+  "validation_metrics": {
+    "best_val_macro_f1": 0.8374769650322602,
+    "best_epoch": 12,
+    "early_stopped": true
+  },
+  "test_metrics": {
+    "test_macro_f1": 0.8434370390232363,
+    "test_accuracy": 0.8427704752275025,
+    "test_loss": 0.46678998826011536,
+    "test_macro_precision": 0.8447974659551762,
+    "test_macro_recall": 0.84461676975235
+  },
+  "training_info": {
+    "total_time_seconds": 193.34232997894287
+  },
+  "backfill_test_metrics": {
+    "timestamp": "2026-05-30T16:56:41.154851",
+    "note": "eval-only backfill cell"
+  }
+}
