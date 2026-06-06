@@ -97,7 +97,7 @@ Department of Applied Data Science, San José State University, San Jose, CA, Un
 | Name | Email |
 |------|-------|
 | Dongmei Han | dongmei.han@sjsu.edu |
-| Shao-Yu Huang | shaoyu.huang@sjsu.edu |
+| Shao-Yu Huang | shao-yu.huang@sjsu.edu |
 | Jiayi Liang | jiayi.liang@sjsu.edu |
 
 **Faculty advisor**
